@@ -12,7 +12,7 @@ redirect_from:
 
 ## Hi, I'm Yao-Zhong Kang.
 
-I am an M.Sc. candidate in **Theoretical Physics at Shanghai University**, jointly trained at the **Shanghai Institute of Applied Physics, Chinese Academy of Sciences (SINAP, CAS)**.
+I am an M.Sc. candidate in **Theoretical Physics at Shanghai University**, jointly trained at the **Shanghai Institute of Applied Physics, Chinese Academy of Sciences (SINAP, CAS)**. under the supervision of Prof. Yang Zou and Prof. Jian Guo.
 
 My research lies at the intersection of **reactor physics, numerical methods, and scientific machine learning**. I am particularly interested in developing AI methods that can work together with established numerical solvers, rather than simply replacing them.
 
