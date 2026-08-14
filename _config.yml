@@ -1,9 +1,6 @@
 # Site Settings
 title                    : "Yao-Zhong Kang"
-description              : >-
-  M.Sc. candidate in Theoretical Physics working on AI-assisted numerical
-  methods for reactor physics, physics-informed machine learning,
-  and neural operators.
+description              : 
 repository               : "jr1128/jr1128.github.io"
 google_scholar_stats_use_cdn : true
 
