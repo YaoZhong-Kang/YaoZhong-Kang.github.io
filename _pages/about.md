@@ -127,48 +127,84 @@ This shift motivates my current interest in **hybrid AI–physics computation**,
 
 ---
 
-## 🎓 Academic Background
+## 🎤 Conferences & Presentations
 
-**M.Sc. in Theoretical Physics**  
-Shanghai University  
-Joint training at Shanghai Institute of Applied Physics, Chinese Academy of Sciences  
-2024 – 2027 (expected)
+### 2026 American Nuclear Society Winter Conference & Expo
+**Neural-Operator Warm Start for Neutron Diffusion Eigenvalue Problems**  
+Phoenix, Arizona, USA · November 2026  
+*Accepted for presentation*
 
-Research focus: AI-assisted numerical methods for reactor physics
+### 21st Conference on Reactor Numerical Calculation and Particle Transport & 2026 Reactor Physics Conference
+Wuhan, China · May 2026  
+*Oral Presentation*
+
+### 2026 “核理安邦” Joint Academic Forum & 837th Tsinghua University Doctoral Academic Forum
+Tsinghua University, Beijing, China · May 2026  
+*Oral Presentation & Poster Presentation*
 
 ---
 
-**B.Sc. in Physics**  
-Soochow University  
-2020 – 2024
+## 🏅 Honors & Awards
+
+- **2026** · **Grand Prize for Outstanding Oral Presentation**, “Nuclear Science for National Security (核理安邦)” Joint Academic Forum, Tsinghua University
+- **2026** · **Second Prize for Outstanding Poster**, “Nuclear Science for National Security (核理安邦)” Joint Academic Forum, Tsinghua University
+- **2025** · **First-Class Graduate Academic Scholarship**, Shanghai University *(Top 20%)*
+- **2024** · **National Third Prize**, Huawei Cup China Postgraduate Mathematical Contest in Modeling
+
+
+---
+
+## 🎓 Academic Journey
+
+### Shanghai University × SINAP, CAS
+**M.Sc. in Theoretical Physics** · 2024 – 2027 (expected)
+
+Jointly trained at the Shanghai Institute of Applied Physics, Chinese Academy of Sciences.
+
+Research focus: **AI-assisted numerical methods for reactor physics**
+
+---
+
+### Soochow University
+**B.Sc. in Physics** · 2020 – 2024
+
+---
+
+## 🧑‍🏫 Teaching
+
+**Teaching Assistant — University Physics**  
+Shanghai University · March – July 2026
+
+Assisted undergraduate students with problem-solving sessions, homework assessment, and course tutorials.
 
 ---
 
 ## 🧰 Research Toolkit
 
-**Scientific Computing**
+**Scientific Computing**  
+`Python` · `PyTorch` · `COMSOL` · `OpenMC` · `Finite Element Methods`
 
-`Python` · `PyTorch` · `Finite Element Methods` · `Numerical Eigenvalue Problems`
+**Scientific Machine Learning**  
+`Physics-Informed Neural Networks` · `Neural Operators` · `Physics-Constrained Learning`
 
-**Machine Learning**
-
-`Physics-Informed Neural Networks` · `Neural Operators` · `Scientific Machine Learning`
-
-**Reactor Physics**
-
+**Reactor Physics**  
 `Neutron Diffusion` · `Multi-group Methods` · `Fission Source Iteration`
 
-**Currently Learning**
+**Research Workflow**  
+`LaTeX` · `Zotero` · `Matplotlib` · `Origin` · `Draw.io`
 
+**Currently Expanding**  
 `Monte Carlo Neutron Transport` · `C++` · `High-Performance Computing`
 
 ---
 
-## 🌱 Beyond Research
+## 🌿 Beyond Research
 
-Outside research, I enjoy **badminton** and maintaining an active lifestyle.
+Outside the lab, I enjoy **badminton, cycling, long-distance running, and Chinese chess**.
 
-I also enjoy learning about new developments in scientific computing, AI for science, and computational nuclear engineering.
+- 🏃 **16th / 353** in the 2022 Soochow University Campus Marathon
+- ♟️ **Champion**, Chinese Chess, 11th Shanghai University Mind Sports Games
+- ♟️ **Runner-up**, Chinese Chess, 4th Suzhou Intercollegiate Chess League
 
 ---
 
