@@ -22,7 +22,7 @@ My current research focuses on **physics-informed machine learning**, **neural o
 > Physics-informed learning → AI-assisted trusted solvers → AI-assisted Monte Carlo transport
 
 ---
-
+<span class="anchor" id="research"></span>
 ## 🔬 What I Work On
 
 ### 01 · Physics-informed learning for neutron diffusion
@@ -68,7 +68,7 @@ Possible directions that I am currently interested in include:
 Rather than treating AI as a standalone replacement, I am interested in **hybrid computational frameworks in which AI improves efficiency while trusted physics-based solvers guarantee the final solution quality**.
 
 ---
-
+<span class="anchor" id="publications"></span>
 ## 📚 Selected Research Work
 
 ### Physics-Informed Neural Networks with Multi-Band Fourier Feature Enhancement for Two-Group Heterogeneous Neutron Diffusion Eigenvalue Problems
@@ -102,7 +102,7 @@ This work develops a physics-informed neural operator for predicting improved in
 -->
 
 ---
-
+<span class="anchor" id="perspective"></span>
 ## 🧭 My Research Perspective
 
 One important change in my research has been the way I think about the role of AI in scientific computing.
@@ -118,7 +118,7 @@ My current question is increasingly:
 This shift motivates my current interest in **hybrid AI–physics computation**, particularly for reactor-physics and neutron-transport applications.
 
 ---
-
+<span class="anchor" id="highlights"></span>
 ## 📌 Recent Highlights
 
 - **2026** — Abstract *Neural-Operator Warm Start for Neutron Diffusion Eigenvalue Problems* accepted for presentation at the **2026 American Nuclear Society Winter Conference & Expo**.
@@ -126,7 +126,7 @@ This shift motivates my current interest in **hybrid AI–physics computation**,
 - **2026** — Received a major-revision decision for the PINN neutron-diffusion work from *Nuclear Science and Techniques*.
 
 ---
-
+<span class="anchor" id="conferences"></span>
 ## 🎤 Conferences & Presentations
 
 ### 2026 American Nuclear Society Winter Conference & Expo
@@ -143,7 +143,7 @@ Tsinghua University, Beijing, China · May 2026
 *Oral Presentation & Poster Presentation*
 
 ---
-
+<span class="anchor" id="awards"></span>
 ## 🏅 Honors & Awards
 
 - **2026** · **Grand Prize for Outstanding Oral Presentation**, “Nuclear Science for National Security (核理安邦)” Joint Academic Forum, Tsinghua University
@@ -153,7 +153,7 @@ Tsinghua University, Beijing, China · May 2026
 
 
 ---
-
+<span class="anchor" id="experience"></span>
 ## 🎓 Academic Journey
 
 ### Shanghai University × SINAP, CAS
@@ -197,7 +197,7 @@ Assisted undergraduate students with problem-solving sessions, homework assessme
 `Monte Carlo Neutron Transport` · `C++` · `High-Performance Computing`
 
 ---
-
+<span class="anchor" id="beyond"></span>
 ## 🌿 Beyond Research
 
 Outside the lab, I enjoy **badminton, cycling, long-distance running, and Chinese chess**.
