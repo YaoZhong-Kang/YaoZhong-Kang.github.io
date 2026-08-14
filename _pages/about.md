@@ -65,7 +65,7 @@ Possible directions that I am currently interested in include:
 - uncertainty-aware and physics-constrained surrogate models;
 - hybrid workflows combining machine learning with high-performance Monte Carlo simulation.
 
-Rather than treating AI as a standalone replacement, I am interested in **hybrid computational frameworks in which AI improves efficiency while trusted physics-based solvers guarantee the final solution quality**.
+Rather than treating AI as a standalone replacement, I am interested in **hybrid computational frameworks in which AI improves efficiency while retaining the convergence criterion of the conventional solver**.
 
 ---
 <span class="anchor" id="publications"></span>
@@ -73,7 +73,7 @@ Rather than treating AI as a standalone replacement, I am interested in **hybrid
 
 ### Physics-Informed Neural Networks with Multi-Band Fourier Feature Enhancement for Two-Group Heterogeneous Neutron Diffusion Eigenvalue Problems
 
-**Yao-Zhong Kang**, et al.
+**Yao-Zhong Kang**, Jian Guo, Rui Yan, Yang Zou
 
 *Nuclear Science and Techniques*
 
@@ -95,7 +95,7 @@ This work investigates PINN-based solutions of heterogeneous two-group neutron d
 
 **Status:** Under Review
 
-This work develops a physics-informed neural operator for predicting improved initial fission-source distributions. The predicted source is coupled with a conventional finite-element solver to accelerate subsequent source iterations while maintaining the original convergence criterion.
+This work develops a physics-informed neural operator for predicting improved initial fission-source distributions. The predicted source is coupled with a conventional finite-element solver to reduce the number of subsequent source iterations while maintaining the original convergence criterion.
 
 <!-- Add links when available:
 [Manuscript] [Code] [Project]
@@ -105,17 +105,7 @@ This work develops a physics-informed neural operator for predicting improved in
 <span class="anchor" id="perspective"></span>
 ## 🧭 My Research Perspective
 
-One important change in my research has been the way I think about the role of AI in scientific computing.
-
-My initial question was:
-
-> *Can a neural network solve the governing equations directly?*
-
-My current question is increasingly:
-
-> *Can machine learning provide useful information to a trusted numerical solver, while the solver remains responsible for final accuracy and reliability?*
-
-This shift motivates my current interest in **hybrid AI–physics computation**, particularly for reactor-physics and neutron-transport applications.
+My recent work has gradually shifted from using neural networks as standalone PDE solvers toward integrating learned models with conventional numerical solvers. In the warm-start study, for example, the neural operator only provides an improved initialization, while the subsequent solution is still obtained by the finite-element source-iteration solver under the original convergence criterion.
 
 ---
 <span class="anchor" id="highlights"></span>
