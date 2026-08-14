@@ -212,7 +212,7 @@ Outside the lab, I enjoy **badminton, cycling, long-distance running, and Chines
 
 I am always happy to discuss research related to scientific machine learning, numerical reactor physics, and AI-assisted scientific computing.
 
-**Email:** Add your preferred email here  
+**Email:** kangyaozhong@sinap.ac.cn 
 **GitHub:** [jr1128](https://github.com/jr1128)
 
 <!--
