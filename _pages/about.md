@@ -12,11 +12,11 @@ redirect_from:
 
 ## Hi, I'm Yao-Zhong Kang.
 
-I am an M.Sc. candidate in **Theoretical Physics at Shanghai University**, jointly trained at the **Shanghai Institute of Applied Physics, Chinese Academy of Sciences (SINAP, CAS)**, under the supervision of Research Professor Yang Zou and Research Professor Jian Guo.
+I am an M.Sc. candidate in **Theoretical Physics at Shanghai University**, conducting my research jointly with the **Shanghai Institute of Applied Physics, Chinese Academy of Sciences (SINAP, CAS)**, under the supervision of **Research Professor Yang Zou** and **Research Professor Jian Guo**.
 
-My research lies at the intersection of **reactor physics, numerical methods, and scientific machine learning**. I am particularly interested in developing AI methods that can work together with established numerical solvers, rather than simply replacing them.
+My research focuses on **computational reactor physics** and **scientific machine learning**, particularly on how learned models can be incorporated into established numerical methods for neutron diffusion problems.
 
-My current research focuses on **physics-informed machine learning**, **neural operators**, and **AI-assisted numerical methods for neutron diffusion eigenvalue problems**. Looking forward, I am interested in extending these ideas toward **Monte Carlo neutron transport and high-performance scientific computing**.
+I have worked on **physics-informed neural networks** for heterogeneous neutron diffusion eigenvalue problems and, more recently, on **neural operators** for accelerating fission-source iteration through improved initialization. I am also interested in extending these ideas to **Monte Carlo neutron transport and high-performance computing**.
 
 > **Research theme:**  
 > Physics-informed learning → AI-assisted trusted solvers → AI-assisted Monte Carlo transport
@@ -101,11 +101,7 @@ This work develops a physics-informed neural operator for predicting improved in
 [Manuscript] [Code] [Project]
 -->
 
----
-<span class="anchor" id="perspective"></span>
-## 🧭 My Research Perspective
 
-My recent work has gradually shifted from using neural networks as standalone PDE solvers toward integrating learned models with conventional numerical solvers. In the warm-start study, for example, the neural operator only provides an improved initialization, while the subsequent solution is still obtained by the finite-element source-iteration solver under the original convergence criterion.
 
 ---
 <span class="anchor" id="highlights"></span>
