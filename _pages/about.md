@@ -82,7 +82,6 @@ This work investigates PINN-based solutions of heterogeneous two-group neutron d
       src="{{ '/images/research/pinn-1.png' | relative_url }}"
       alt="Two-group heterogeneous neutron diffusion problem"
       loading="lazy">
-   
   </figure>
 </div>
 
@@ -108,7 +107,6 @@ This work develops a physics-informed neural operator for predicting improved in
       src="{{ '/images/research/neural-operator-cframework.png' | relative_url }}"
       alt="Physics-informed neural operator for fission-source prediction"
       loading="lazy">
-
  </figure>
 
   <figure>
@@ -123,8 +121,6 @@ This work develops a physics-informed neural operator for predicting improved in
 <!-- Add links when available:
 [Manuscript] [Code] [Project]
 -->
-
-
 
 ---
 <span class="anchor" id="highlights"></span>
