@@ -69,6 +69,23 @@ In particular, I would like to investigate machine-learning methods for fission-
 
 This work investigates PINN-based solutions of heterogeneous two-group neutron diffusion eigenvalue problems and introduces multi-band Fourier features to improve the representation of spatially complex neutron-flux distributions.
 
+<div class="research-figures">
+  <figure>
+    <img
+      src="{{ '/images/research/pinn-framework.png' | relative_url }}"
+      alt="Physics-informed neural network with multi-band Fourier feature enhancement"
+      loading="lazy">
+  </figure>
+
+  <figure>
+    <img
+      src="{{ '/images/research/pinn-1.png' | relative_url }}"
+      alt="Two-group heterogeneous neutron diffusion problem"
+      loading="lazy">
+   
+  </figure>
+</div>
+
 <!-- Add links when available:
 [Manuscript] [Code] [Project]
 -->
@@ -84,6 +101,24 @@ This work investigates PINN-based solutions of heterogeneous two-group neutron d
 **Status:** Under Review
 
 This work develops a physics-informed neural operator for predicting improved initial fission-source distributions. The predicted source is coupled with a conventional finite-element solver to reduce the number of subsequent source iterations while maintaining the original convergence criterion.
+
+<div class="research-figures">
+  <figure>
+    <img
+      src="{{ '/images/research/neural-operator-cframework.png' | relative_url }}"
+      alt="Physics-informed neural operator for fission-source prediction"
+      loading="lazy">
+
+ </figure>
+
+  <figure>
+    <img
+      src="{{ '/images/research/neural-operator-1.png' | relative_url }}"
+      alt="Neural-operator warm start coupled with finite-element source iteration"
+      loading="lazy">
+  </figure>
+</div>
+
 
 <!-- Add links when available:
 [Manuscript] [Code] [Project]
