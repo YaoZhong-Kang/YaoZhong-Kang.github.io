@@ -110,8 +110,8 @@ This work investigates PINN-based solutions of heterogeneous two-group neutron d
 This work develops a physics-informed neural operator for predicting improved initial fission-source distributions. The predicted source is coupled with a conventional finite-element solver to reduce the number of subsequent source iterations while maintaining the original convergence criterion.
 
 <div class="research-figures research-figures-stacked">
-
-  <figure>
+  
+  <figure class="figure-neural-framework">
     <a href="{{ '/images/research/neural-operator-framework.png' | relative_url }}"
        target="_blank" rel="noopener">
       <img
@@ -121,7 +121,7 @@ This work develops a physics-informed neural operator for predicting improved in
     </a>
   </figure>
 
-  <figure>
+<figure class="figure-neural-result">
     <a href="{{ '/images/research/neural-operator-1.png' | relative_url }}"
        target="_blank" rel="noopener">
       <img
