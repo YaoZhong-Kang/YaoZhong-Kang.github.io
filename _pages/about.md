@@ -81,7 +81,7 @@ This work investigates PINN-based solutions of heterogeneous two-group neutron d
     </a>
   </figure>
 
-  <figure class="figure-medium">
+  <figure class="figure-wide">
     <a href="{{ '/images/research/pinn-1.jpg' | relative_url }}"
        target="_blank" rel="noopener">
       <img
