@@ -38,34 +38,22 @@ To improve the representation of heterogeneous flux distributions, I introduced 
 
 ---
 
-### 02 · Neural operators as a warm start for conventional solvers
+### 02 · Neural operators for fission-source initialization
 
-My more recent work shifts from **AI replacing numerical solvers** toward **AI assisting reliable numerical solvers**.
+My recent work investigates whether a neural operator can provide a better initial fission-source distribution for multi-group neutron diffusion eigenvalue calculations.
 
-I developed a physics-informed neural-operator approach to predict an improved initial fission-source distribution for multi-group neutron diffusion eigenvalue calculations.
-
-Instead of directly producing the final solution, the neural operator provides a **warm start**, after which the conventional finite-element source-iteration solver continues to convergence under the same numerical stopping criterion.
-
-This design allows the traditional solver to retain control of the final accuracy while the learned model helps reduce unnecessary iterations.
+The predicted source is used only as the **initial condition** for a conventional **finite-element** source-iteration solver, which then proceeds to convergence using the original stopping criterion. I use this setup to study how learned initialization affects **source convergence** and the number of subsequent iterations.
 
 **Keywords:**  
 `Neural Operators` · `Warm Start` · `Finite Elements` · `Source Iteration`
 
 ---
 
-### 03 · Toward AI-assisted Monte Carlo transport
+### 03 · Toward Monte Carlo neutron transport
 
-My long-term research interest is to explore how machine learning can be integrated into **Monte Carlo neutron transport** without compromising the reliability and physical consistency of conventional simulation methods.
+I am interested in extending learned-initialization and source-acceleration ideas from deterministic neutron diffusion to ** Monte Carlo transport** .
 
-Possible directions that I am currently interested in include:
-
-- learned initialization of fission-source distributions;
-- data-driven acceleration of source convergence;
-- AI-assisted importance functions and variance reduction;
-- uncertainty-aware and physics-constrained surrogate models;
-- hybrid workflows combining machine learning with high-performance Monte Carlo simulation.
-
-Rather than treating AI as a standalone replacement, I am interested in **hybrid computational frameworks in which AI improves efficiency while retaining the convergence criterion of the conventional solver**.
+In particular, I would like to investigate machine-learning methods for fission-source initialization, source convergence, and variance reduction while keeping the underlying Monte Carlo transport process and statistical convergence criteria explicit.
 
 ---
 <span class="anchor" id="publications"></span>
