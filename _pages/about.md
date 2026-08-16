@@ -69,20 +69,28 @@ In particular, I would like to investigate machine-learning methods for fission-
 
 This work investigates PINN-based solutions of heterogeneous two-group neutron diffusion eigenvalue problems and introduces multi-band Fourier features to improve the representation of spatially complex neutron-flux distributions.
 
-<div class="research-figures">
-  <figure>
-    <img
-      src="{{ '/images/research/pinn-framework.png' | relative_url }}"
-      alt="Physics-informed neural network with multi-band Fourier feature enhancement"
-      loading="lazy">
+<div class="research-figures research-figures-stacked">
+
+  <figure class="figure-wide">
+    <a href="{{ '/images/research/pinn-framework.png' | relative_url }}"
+       target="_blank" rel="noopener">
+      <img
+        src="{{ '/images/research/pinn-framework.png' | relative_url }}"
+        alt="PINN framework with multi-band Fourier features"
+        loading="lazy">
+    </a>
   </figure>
 
-  <figure>
-    <img
-      src="{{ '/images/research/pinn-1.jpg' | relative_url }}"
-      alt="Two-group heterogeneous neutron diffusion problem"
-      loading="lazy">
+  <figure class="figure-medium">
+    <a href="{{ '/images/research/pinn-1.jpg' | relative_url }}"
+       target="_blank" rel="noopener">
+      <img
+        src="{{ '/images/research/pinn-1.jpg' | relative_url }}"
+        alt="PINN neutron-flux prediction and error"
+        loading="lazy">
+    </a>
   </figure>
+
 </div>
 
 <!-- Add links when available:
@@ -101,20 +109,28 @@ This work investigates PINN-based solutions of heterogeneous two-group neutron d
 
 This work develops a physics-informed neural operator for predicting improved initial fission-source distributions. The predicted source is coupled with a conventional finite-element solver to reduce the number of subsequent source iterations while maintaining the original convergence criterion.
 
-<div class="research-figures">
-  <figure>
-    <img
-      src="{{ '/images/research/neural-operator-framework.png' | relative_url }}"
-      alt="Physics-informed neural operator for fission-source prediction"
-      loading="lazy">
- </figure>
+<div class="research-figures research-figures-asymmetric">
 
   <figure>
-    <img
-      src="{{ '/images/research/neural-operator-1.png' | relative_url }}"
-      alt="Neural-operator warm start coupled with finite-element source iteration"
-      loading="lazy">
+    <a href="{{ '/images/research/neural-operator-framework.png' | relative_url }}"
+       target="_blank" rel="noopener">
+      <img
+        src="{{ '/images/research/neural-operator-framework.png' | relative_url }}"
+        alt="Physics-informed neural-operator framework"
+        loading="lazy">
+    </a>
   </figure>
+
+  <figure>
+    <a href="{{ '/images/research/neural-operator-1.png' | relative_url }}"
+       target="_blank" rel="noopener">
+      <img
+        src="{{ '/images/research/neural-operator-1.png' | relative_url }}"
+        alt="Comparison between neural-operator prediction and FEM refinement"
+        loading="lazy">
+    </a>
+  </figure>
+
 </div>
 
 
